@@ -35,7 +35,7 @@
 
 .barfiller .tip:after {
     border:solid;
-    border-color:rgba(0,0,0,.8) transparent;
+    border-color:#8bf843;
     border-width:6px 6px 0 6px;
     content:"";
     display:block;

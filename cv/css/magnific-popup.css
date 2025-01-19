@@ -1,4 +1,3 @@
-/* Magnific Popup CSS */
 .mfp-bg {
   top: 0;
   left: 0;
@@ -94,7 +93,9 @@
   right: 8px;
   z-index: 1044; }
   .mfp-preloader a {
-    color: #CCC; }
+    color: none;
+    border: 2 px #8bf843;
+  }
     .mfp-preloader a:hover {
       color: #FFF; }
 
@@ -133,7 +134,8 @@ button::-moz-focus-inner {
   text-align: center;
   opacity: 0.65;
   padding: 0 0 18px 10px;
-  color: #FFF;
+  color: none;
+  border: 3 px #8bf843;
   font-style: normal;
   font-size: 28px;
   font-family: Arial, Baskerville, monospace; }
@@ -144,7 +146,7 @@ button::-moz-focus-inner {
     top: 1px; }
 
 .mfp-close-btn-in .mfp-close {
-  color: #333; }
+  color: #8bf843; }
 
 .mfp-image-holder .mfp-close,
 .mfp-iframe-holder .mfp-close {
