@@ -24,7 +24,7 @@ h1 {
 
 h2 {
 	font-size: 45px;
-	color: white;
+	color: #888888;
 }
 
 h3 {
@@ -90,7 +90,7 @@ ol {
 
 .section-title h2 {
 	font-size: 42px;
-	color: #111111;
+	color: white;
 	font-weight: 700;
 	text-transform: uppercase;
 }
@@ -530,7 +530,7 @@ ol {
 .event__item__text h4 {
 	font-size: 26px;
 	font-weight: 700;
-	color: #111111;
+	color: #bab8bd;
 	margin-bottom: 10px;
 }
 
@@ -540,7 +540,7 @@ ol {
 }
 
 .event__item__text p i {
-	color: #c6c2cc;
+	color:  #888888;
 	margin-right: 8px;
 	font-size: 17px;
 }
@@ -864,7 +864,7 @@ ol {
 }
 
 .footer__social h2 {
-	color: white;
+	color:  #888888;
 	font-weight: 700;
 	margin-bottom: 25px;
 }
